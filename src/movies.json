@@ -1,0 +1,210 @@
+ [
+      {
+        "idMovies": "1",
+        "nameMovies": "Un poisson nommé Wanda",
+        "dateOfRelease": "1988-07-07",
+        "resume": "Des voleurs de bijoux, des avocats anglais très comme il faut et un poisson nommé Wanda : tous les ingrédients pour une comédie au quatuor gagnant.",
+        "poster": "https://media.senscritique.com/media/000016146239/source_big/Un_poisson_nomme_Wanda.jpg",
+        "duration": "108"
+      },
+      {
+        "idMovies": "2",
+        "nameMovies": "Titanic",
+        "dateOfRelease": "1998-01-07",
+        "resume": "Le 10 avril 1912, au port de Southampton en Angleterre, le Titanic, le plus grand paquebot du monde, réputé pour son insubmersibilité, appareille pour son premier voyage. Une traversée inaugurale de l'Atlantique Nord avec pour destination New York. A son bord, Jack Dawson, un artiste sans le sous, fait la rencontre de Rose, passagère de première classe issue d'une famille aristocrate de Philadelphie. Bien que venant d'univers radicalement différents, ils finissent pas tomber amoureux. Quatre jours plus tard, le navire heurte un iceberg.",
+        "poster": "https://media.senscritique.com/media/000019629037/source_big/Titanic.jpg",
+        "duration": "194"
+      },
+      {
+        "idMovies": "3",
+        "nameMovies": "Seven",
+        "dateOfRelease": "1996-01-31",
+        "resume": "Sur le point de prendre sa retraite, l'inspecteur William Somerset fait équipe avec le jeune David Mills. Tous deux mènent l'enquête sur une série de meurtres particulièrement étranges. En effet, un mystérieux serial killer, se faisant appeler John Doe, tue ses victimes selon les sept péchés capitaux.",
+        "poster": "https://media.senscritique.com/media/000012353656/source_big/Seven.jpg",
+        "duration": "127"
+      },
+      {
+        "idMovies": "4",
+        "nameMovies": "Little big man",
+        "dateOfRelease": "1971-03-31",
+        "resume": "Un centenaire, Jack Crabb, raconte sa vie à un journaliste et, à travers, elle, la conquête de l'Ouest. Enlevé autrefois par les Cheyennes, il devient très vite un des leurs sous le nom de « Grand Petit Homme ». De retour chez les Blancs, il côtoie des pittoresques personnages mais, écœuré par la civilisation, Jack retourne chez les Indiens jusqu'à ce que, enrôlé de force dans l'armée, il assiste impuissant au massacre de sa famille, puis à la défaite de Little Big Horn...",
+        "poster": "https://media.senscritique.com/media/000004818717/source_big/Little_Big_Man.jpg",
+        "duration": "139"
+      },
+      {
+        "idMovies": "5",
+        "nameMovies": "Rio Bravo",
+        "dateOfRelease": "1959-10-21",
+        "resume": "Un shérif arrête le frère de l'homme le plus puissant de la région. Il n'a pour alliés qu'un adjoint ivrogne, un vieillard boiteux, un gamin, une joueuse de poker et un hôtelier mexicain, et contre lui une armée de tueurs.",
+        "poster": "https://media.senscritique.com/media/000019752511/source_big/Rio_Bravo.jpg",
+        "duration": "141"
+      },
+      {
+        "idMovies": "6",
+        "nameMovies": "Les Affranchis",
+        "dateOfRelease": "1990-09-12",
+        "resume": "A Brooklyn, dans les années 1950, Henry Hill, né d’un père irlandais et d’une mère sicilienne, a toujours voulu devenir gangster. Il commet à 16 ans ses premiers délits. Arrêté, le gamin des rues gagne le respect du parrain Paul Cicero en refusant de livrer ses complices, la règle d’or des affranchis. A sa sortie de prison, Henry se lie d'amitié avec Jimmy Conway, un truand imprévisible et cruel qui deviendra son mentor, et Tommy De Vito, un gangster dangereux et impulsif.",
+        "poster": "https://media.senscritique.com/media/000008041479/source_big/Les_Affranchis.jpg",
+        "duration": "146"
+      },
+      {
+        "idMovies": "7",
+        "nameMovies": "Les misérables",
+        "dateOfRelease": "2019-11-20",
+        "resume": "Stéphane, tout juste arrivé de Cherbourg, intègre la Brigade Anti-Criminalité de Montfermeil, dans le 93. Il va faire la rencontre de ses nouveaux coéquipiers, Chris et Gwada, deux «Bacqueux» d’expérience. Il découvre rapidement les tensions entre les différents groupes du quartier.",
+        "poster": "https://media.senscritique.com/media/000019228798/source_big/Les_Miserables.jpg",
+        "duration": "104"
+      },
+      {
+        "idMovies": "8",
+        "nameMovies": "La mort aux trousses",
+        "dateOfRelease": "1959-10-21",
+        "resume": "Le publiciste Roger Tornhill se retrouve par erreur dans la peau d'un espion. Pris entre une mystérieuse organisation qui cherche à le supprimer et la police qui le poursuit, Tornhill est dans une situation bien inconfortable. Il fuit à travers les États-Unis et part à la recherche d'une vérité qui se révèlera très surprenante.",
+        "poster": "https://media.senscritique.com/media/000016132379/source_big/La_Mort_aux_trousses.jpg",
+        "duration": "136"
+      },
+      {
+        "idMovies": "9",
+        "nameMovies": "Zodiac",
+        "dateOfRelease": "2007-05-17",
+        "resume": "En 1969, un tueur en série sème la terreur à San Francisco. Revendiquant pas moins de trente-sept meurtres, ce mystérieux meurtrier prend un malin plaisir à narguer la police en envoyant des lettres codées à la presse. Les inspecteurs de police David Toschi et William Armstrong, le chroniqueur judiciaire Paul Avery et le jeune dessinateur Robert Graysmith tentent de l'identifier.",
+        "poster": "https://media.senscritique.com/media/000020099916/source_big/Zodiac.jpg",
+        "duration": "157"
+      },
+      {
+        "idMovies": "10",
+        "nameMovies": "Retour vers le futur",
+        "dateOfRelease": "1985-10-30",
+        "resume": "En 1985, Marty, un adolescent comme les autres, mène une existence qu'il juge morne et ennuyeuse. Heureusement, il est épris de la jolie Jennifer et entretient une profonde amitié avec Doc, un savant fou qui prétend avoir inventé une machine à explorer le temps. Un jour, Doc invite Marty à l'essayer. Mais ils sont surpris par des terroristes. Doc est abattu tandis que Marty met l'engin en marche et se retrouve en 1955.",
+        "poster": "https://media.senscritique.com/media/000012222742/source_big/Retour_vers_le_futur.jpg",
+        "duration": "116"
+      },
+      {
+        "idMovies": "11",
+        "nameMovies": "Parasite",
+        "dateOfRelease": "2019-06-05",
+        "resume": "Toute la famille de Ki-taek est au chômage, et s’intéresse fortement au train de vie de la richissime famille Park. Un jour, leur fils réussit à se faire recommander pour donner des cours particuliers d’anglais chez les Park. C’est le début d’un engrenage incontrôlable, dont personne ne sortira véritablement indemne…",
+        "poster": "https://media.senscritique.com/media/000018573383/source_big/Parasite.jpg",
+        "duration": "132"
+      },
+      {
+        "idMovies": "12",
+        "nameMovies": "Le bon, la brute et le truand",
+        "dateOfRelease": "1968-03-08",
+        "resume": "Un chasseur de primes rejoint deux hommes dans une alliance précaire. Leur but ? Trouver un coffre rempli de pièces d'or dans un cimetière isolé.",
+        "poster": "https://media.senscritique.com/media/000008032023/source_big/Le_Bon_la_Brute_et_le_Truand.jpg",
+        "duration": "179"
+      },
+      {
+        "idMovies": "13",
+        "nameMovies": "1917",
+        "dateOfRelease": "2020-03-16",
+        "resume": "Pris dans la tourmente de la Première Guerre Mondiale, Schofield et Blake, deux jeunes soldats britanniques, se voient assigner une mission à proprement parler impossible. Porteurs d’un message qui pourrait empêcher une attaque dévastatrice et la mort de centaines de soldats, dont le frère de Blake, ils se lancent dans une véritable course contre la montre, derrière les lignes ennemies.",
+        "poster": "https://media.senscritique.com/media/000019142368/source_big/1917.jpg",
+        "duration": "119"
+      },
+      {
+        "idMovies": "14",
+        "nameMovies": "Le diner de cons",
+        "dateOfRelease": "1998-04-15",
+        "resume": "Le passe-temps préféré d'une bande d'amis, satisfaits d'eux-mêmes, consiste à se retrouver pour un dîner hebdomadaire où chacun doit amener avec lui un simple d'esprit, dont la stupidité enchantera tout le monde. Pierre Brochant, éditeur en vogue, pense avoir trouvé l'oiseau rare en la personne de François Pignon, comptable au ministère des Finances. Mais les choses ne tournent pas comme prévu.",
+        "poster": "https://media.senscritique.com/media/000004672245/source_big/Le_Diner_de_cons.jpg",
+        "duration": "80"
+      },
+      {
+        "idMovies": "15",
+        "nameMovies": "West Side Story",
+        "dateOfRelease": "2021-12-08",
+        "resume": "Variation de Roméo et Juliette de William Shakespeare. Dans le West Side, bas quartier de New York, deux bandes de jeunes s’affrontent, les Sharks de Bernardo et les Jets de Riff. Un ex des Jets, Tony, s’éprend de Maria, la soeur de Bernardo.",
+        "poster": "https://media.senscritique.com/media/000020328070/source_big/West_Side_Story.png",
+        "duration": "156"
+      },
+      {
+        "idMovies": "16",
+        "nameMovies": "Interstellar",
+        "dateOfRelease": "2014-11-05",
+        "resume": "Alors que la vie sur Terre touche à sa fin, un groupe d’explorateurs s’attelle à la mission la plus importante de l’histoire de l’humanité : franchir les limites de notre galaxie pour savoir si l’homme peut vivre sur une autre planète…",
+        "poster": "https://media.senscritique.com/media/000018762465/source_big/Interstellar.jpg",
+        "duration": "169"
+      },
+      {
+        "idMovies": "17",
+        "nameMovies": "Il faut sauver le soldat Ryan",
+        "dateOfRelease": "1998-09-30",
+        "resume": "Le 6 juin 1944, le capitaine Miller et ses hommes débarquent sur la plage d'Omaha Beach en Normandie. A peine sorti de l'enfer du débarquement, Miller se voit confier une mission très périlleuse : conduire son escouade derrière les lignes ennemies pour trouver et ramener sain et sauf un soldat du nom de Ryan, dont les trois frères ont tous été tués au combat",
+        "poster": "https://media.senscritique.com/media/000008269224/source_big/Il_faut_sauver_le_soldat_Ryan.jpg",
+        "duration": "169"
+      },
+      {
+        "idMovies": "18",
+        "nameMovies": "Un monde parfait",
+        "dateOfRelease": "1993-12-15",
+        "resume": "En 1963, au Texas, Butch Haynes et Terry Pugh s'évadent de prison. Dans leur fuite, ils prennent en otage Phillip, un jeune garçon de 8 ans. Bientôt, Butch se débarrasse de Terry, devenu incontrôlable, et poursuit seul avec l'enfant sa course vers la liberté. Au fil de leur cavale, la complicité se resserre entre Phillip et lui. L'officier Red Garnett se lance alors à ses trousses, assisté d'une jeune criminologue, Sally Gerber",
+        "poster": "https://media.senscritique.com/media/000014091427/source_big/Un_monde_parfait.jpg",
+        "duration": "138"
+      },
+      {
+        "idMovies": "19",
+        "nameMovies": "Gladiator",
+        "dateOfRelease": "2000-06-20",
+        "resume": "En 180 après Jésus Christ, le général romain Maximus est le plus fidèle soutien de l'empereur Marc Aurèle. Jaloux du prestige de Maximus, le fils de Marc Aurèle, Commode, s'arroge brutalement le pouvoir, puis ordonne l'arrestation du général et son exécution. Maximus échappe à ses assassins mais ne peut empêcher le massacre de sa famille. Capturé par un marchand d'esclaves, il devient gladiateur et prépare sa vengeance.",
+        "poster": "https://media.senscritique.com/media/000012334489/source_big/Gladiator.jpg",
+        "duration": "155"
+      },
+      {
+        "idMovies": "20",
+        "nameMovies": "Le passé",
+        "dateOfRelease": "2013-05-17",
+        "resume": "Après quatre années de séparation, Ahmad arrive à Paris depuis Téhéran, à la demande de Marie, son épouse française, pour procéder aux formalités de leur divorce. Lors de son bref séjour, Ahmad découvre la relation conflictuelle que Marie entretient avec sa fille, Lucie. Les efforts d'Ahmad pour tenter d'améliorer cette relation lèveront le voile sur un secret du passé.",
+        "poster": "https://media.senscritique.com/media/000004710146/source_big/Le_Passe.jpg",
+        "duration": "130"
+      },
+      {
+        "idMovies": "21",
+        "nameMovies": "Into the wild",
+        "dateOfRelease": "2008-01-09",
+        "resume": "Christopher a 22 ans et une soif d'absolu et de liberté sans limites. Il plaque tout du jour au lendemain pour partir à l'aventure.",
+        "poster": "https://media.senscritique.com/media/000019629038/source_big/Into_the_Wild.jpg",
+        "duration": "148"
+      },
+      {
+        "idMovies": "22",
+        "nameMovies": "Prisoners",
+        "dateOfRelease": "2013-10-09",
+        "resume": "Un père apprend que sa fille a été kidnappée avec celle de son meilleur ami. Il se met alors à suspecter une personne qu'il va traquer...",
+        "poster": "https://media.senscritique.com/media/000005479390/source_big/Prisoners.jpg",
+        "duration": "153"
+      },
+      {
+        "idMovies": "23",
+        "nameMovies": "Eternal sunshine of the spotless mind",
+        "dateOfRelease": "2004-10-06",
+        "resume": "L'idylle entre Clementine et Joel a pris fin, en raison de leurs caractères trop différents et de la routine. Pour apaiser ses souffrances, Clementine a recours à Lacuna, un procédé révolutionnaire qui efface certains souvenirs. Désespéré, Joel décide de suivre le même processus. Une nuit, deux techniciens s'y emploient. Mais quand le passé défile dans sa tête, Joel mesure à quel point il aime toujours Clementine.",
+        "poster": "https://media.senscritique.com/media/000012223508/source_big/Eternal_Sunshine_of_the_Spotless_Mind.jpg",
+        "duration": "108"
+      },
+      {
+        "idMovies": "24",
+        "nameMovies": "Le chant du loup",
+        "dateOfRelease": "2019-02-20",
+        "resume": "Un jeune homme a le don rare de reconnaître chaque son qu’il entend. A bord d’un sous-marin nucléaire français, tout repose sur lui, l’Oreille d’Or. Réputé infaillible, il commet pourtant une erreur qui met l’équipage en danger de mort. Il veut retrouver la confiance de ses camarades mais sa quête les entraîne dans une situation encore plus dramatique. Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retrouvent tous pris au piège d’un engrenage incontrôlable.",
+        "poster": "https://media.senscritique.com/media/000018537250/source_big/Le_Chant_du_loup.jpg",
+        "duration": "115"
+      },
+      {
+        "idMovies": "25",
+        "nameMovies": "Inception",
+        "dateOfRelease": "2010-07-21",
+        "resume": "Dom Cobb est un voleur expérimenté, le meilleur dans l'art dangereux de l'extraction : spécialité qui consiste à voler les secrets les plus intimes enfouis au plus profond du subconscient durant une phase de rêve. Très recherché pour ses talents dans l’univers trouble de l’espionnage industriel, Cobb est aussi devenu un fugitif traqué dans le monde entier. Une ultime mission pourrait lui permettre de retrouver sa vie passée, accomplir une « inception ».",
+        "poster": "https://media.senscritique.com/media/000004710747/source_big/Inception.jpg",
+        "duration": "148"
+      },
+      {
+        "idMovies": "26",
+        "nameMovies": "127 heures",
+        "dateOfRelease": "2011-02-23",
+        "resume": "Seul et sans prévenir personne, Aaron part en randonnée dans les gorges désertiques de l'Utah. Mais il se trouve coincé sous un rocher et doit alors s'échapper.",
+        "poster": "https://media.senscritique.com/media/000006536742/source_big/127_Heures.jpg",
+        "duration": "94"
+      }
+    ]
